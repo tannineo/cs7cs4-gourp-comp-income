@@ -1,0 +1,25 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+skip_lock = true
+
+[dev-packages]
+flake8 = "*"
+rope = "*"
+yapf = "*"
+pylint = "*"
+
+[packages]
+numpy = "*"
+pandas = "*"
+jupyterlab = "*"
+scikit-learn = "*"
+lightgbm = "*"
+bqplot = "*"
+matplotlib = "*"
+torch = "*"
+torchvision = "*"
+
+[requires]
+python_version = "3.7"
