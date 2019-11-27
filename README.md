@@ -4,7 +4,7 @@ Group Competition CS7CS4
 
 ## best result
 
-Done mainly by Jagadish in []
+Done mainly by Jagadish in [main_best_code_2.py](./main_best_code_2.py)
 
 ## environment
 
