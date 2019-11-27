@@ -4,7 +4,7 @@ Group Competition CS7CS4
 
 ## best result
 
-Done mainly by Jagadish in [main_best_code_2.py](./main_best_code_2.py)
+[main_best_code_2.py](./main_best_code_2.py)
 
 ## environment
 
@@ -22,6 +22,6 @@ Côte d'Ivoire => CDI
 
 ## authors
 
-- [Mary McDonald](https://github.com/mcdonam7) : [best-final.py](./best-final.py)
-- [Jagadish Ramamurthy](https://github.com/jagadishr12) : [main_best_code_2.py](./main_best_code_2.py)
-- [Chao Chen](https://github.com/tannineo) : [20191123-02.py](./20191123-02.py)
+- [Mary McDonald](https://github.com/mcdonam7)
+- [Jagadish Ramamurthy](https://github.com/jagadishr12)
+- [Chao Chen](https://github.com/tannineo)
