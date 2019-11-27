@@ -16,6 +16,10 @@ regex: `[^\x00-\x7f]` to find non-ASCII characters.
 
 Côte d'Ivoire => CDI
 
+## notes
+
+- Don't use `KFold` from `sklearn`, the memory management is terrible when using this to deal large datasets.
+
 ## authors
 
 [Mary McDonald](https://github.com/mcdonam7) : [best-final.py](./best-final.py)
