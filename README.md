@@ -5,6 +5,7 @@ Group Competition CS7CS4
 ## best result
 
 [main_best_code_2.py](./main_best_code_2.py)
+[tcd-ml-1920-group-income-submission.csv](./tcd-ml-1920-group-income-submission.csv)
 
 ## environment
 
